@@ -1,0 +1,10 @@
+main.c:47:5:main	1
+main.c:96:6:SystemClock_Config	3
+main.c:130:6:Error_Handler	1
+main.c:141:6:userInterface	34
+main.c:377:6:readTemp	1
+main.c:387:9:hysteresis	3
+main.c:397:6:HCCtrl	1
+main.c:408:6:stepCycle	5
+main.c:434:6:timePeriodTick	6
+main.c:461:6:stepCtrl	6
